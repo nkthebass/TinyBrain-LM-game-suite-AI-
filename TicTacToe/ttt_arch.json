@@ -1,0 +1,7 @@
+{
+  "ContextSize": 32,
+  "EmbedDim": 64,
+  "NumHeads": 8,
+  "FfDim": 256,
+  "NumLayers": 4
+}
